@@ -1,0 +1,2 @@
+This is artifical intelligence and machine learning class 
+we learnt how to store daily work in git and github.
